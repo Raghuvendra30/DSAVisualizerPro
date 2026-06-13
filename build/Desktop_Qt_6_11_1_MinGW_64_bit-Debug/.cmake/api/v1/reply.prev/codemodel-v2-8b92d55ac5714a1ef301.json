@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-bdb8ef30191d41f54fc0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DSAVisualizerPro",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAVisualizerPro::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAVisualizerPro-Debug-2e9b58d75f05410b3366.json",
+					"name" : "DSAVisualizerPro",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAVisualizerPro_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAVisualizerPro_autogen-Debug-cf113b4d842c514b3958.json",
+					"name" : "DSAVisualizerPro_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAVisualizerPro_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAVisualizerPro_autogen_timestamp_deps-Debug-785a4a2938935a418a05.json",
+					"name" : "DSAVisualizerPro_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/raghu/Desktop/DSAVisualizerPro/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/raghu/Desktop/DSAVisualizerPro"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
