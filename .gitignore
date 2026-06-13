@@ -1,1 +1,29 @@
+# Qt Creator
+.qtcreator/
+*.pro.user
+*.user
 
+# Build folders
+build/
+build-*/
+cmake-build-*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Generated files
+ui_*.h
+moc_*.cpp
+qrc_*.cpp
+
+# Executables
+*.exe
+*.dll
+*.o
+*.obj
+
+# VS Code
+.vscode/
